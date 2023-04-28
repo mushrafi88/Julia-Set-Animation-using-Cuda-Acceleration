@@ -10,6 +10,14 @@ where $0 < \theta < 2 \pi$.
 
 ![Julia set animation](julia_brown_12x.mp4)
 
+<p align="center">
+  <video width="600" height="400" controls>
+    <source src="julia_brown_12x.mp4" type="video/mp4">
+  </video>
+</p>
+
+
+
 The Julia set is a fractal that arises from the iteration of a function $f(z)$ on the complex plane. The Julia set for a particular function $f(z)$ is the set of points on the complex plane that do not escape to infinity under iteration of $f(z)$.
 
 We have plotted the Julia set for values of $a$ between $0$ and $2\pi$. 
