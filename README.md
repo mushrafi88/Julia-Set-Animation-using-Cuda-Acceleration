@@ -12,4 +12,4 @@ where $0 < \theta < 2 \pi$.
 
 The Julia set is a fractal that arises from the iteration of a function $f(z)$ on the complex plane. The Julia set for a particular function $f(z)$ is the set of points on the complex plane that do not escape to infinity under iteration of $f(z)$.
 
-In this animation, we vary the value of $\theta$ and observe how the Julia set changes. Specifically, we use $a$ to represent the value of $\theta$, and we plot the Julia set for values of $a$ between $0$ and $2\pi$. The resulting animation shows the Julia set morphing as we vary the value of $\theta$.
+We have plotted the Julia set for values of $a$ between $0$ and $2\pi$. 
